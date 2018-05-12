@@ -1,10 +1,16 @@
 _repo: Samuel-Pepys-and-the-Royal-Navy_48353
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48353-h/images/cover.jpg
 creator:
   author:
     agent_name: Tanner, J. R. (Joseph Robson)
     gutenberg_agent_id: '44751'
     url: http://www.gutenberg.org/2009/agents/44751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48353#Samuel-Pepys-and-the-Royal-Navy
 gutenberg_issued: '2015-02-24'
 gutenberg_type: Text
 identifiers:
